@@ -105,7 +105,7 @@ Przeanalizujmy wspomniane wcześniej domyślne metody data klasy oraz różnice 
 
 ### Przekształcanie do stringa
 
-Domyślne przekształcenie `toString` generuje string, który zaczyna się od nazwy klasy, a następnie znaku małpy "@", a potem bez znakowej reprezentacji szesnastkowej kodu skrótu obiektu. Celem tego jest wyświetlenie nazwy klasy oraz określenie, czy dwa stringireprezentują ten sam obiekt, czy nie.
+Domyślne przekształcenie `toString` generuje string, który zaczyna się od nazwy klasy, a następnie znaku małpy "@", a potem bez znakowej reprezentacji szesnastkowej kodu skrótu obiektu. Celem tego jest wyświetlenie nazwy klasy oraz określenie, czy dwa stringi reprezentują ten sam obiekt, czy nie.
 
 ```kotlin
 class FakeUserRepository
